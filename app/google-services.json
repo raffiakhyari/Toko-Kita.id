@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817985349896",
+    "project_id": "toko-kita-id",
+    "storage_bucket": "toko-kita-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817985349896:android:5d0240a45b90d307a324bd",
+        "android_client_info": {
+          "package_name": "com.example.toko_kitaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817985349896-3dku050s6r1kurhded7n128s5qj83b7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDexSYmxiATt_E5N0LnqCfjG4sHw1gXYbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817985349896-3dku050s6r1kurhded7n128s5qj83b7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
